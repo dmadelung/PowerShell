@@ -5,13 +5,13 @@
 ### ENTER YOU VARIABLES HERE ###
 
 #path to the SP CSOM files 
-$csomPath = "C:\" 
+$csomPath = "C:\...." 
 
 #Email of person running the script
 $adminEmail = "user@domain.com"
 
 #Site collection to be connected to
-$siteUrl = "https://domain.sharepoint.com/sites/site"
+$siteUrl = "https://site.sharepoint.com/sites/site"
 
 #Library title where the file exists
 $libraryTitle = "Documents" 
